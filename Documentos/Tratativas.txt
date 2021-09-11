@@ -1,0 +1,11 @@
+Receber
+Cancelar
+Trocar
+Arrependimento
+Avaria
+Defeito
+Endereco
+Errado
+Falso
+Faltante
+Prazo
